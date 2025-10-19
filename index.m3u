@@ -157,4 +157,29 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/122da2d9-dfda-4593-a1d7-2d04c3f3e852/0.m3u8
 #EXTINF:-1 tvg-id="ChumbakTV.in@SD",Chumbak TV (720p)
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
-
+#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p) [Geo-blocked]
+http://116.90.120.149:8000/play/a0ba/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD",Star Sports 2 Hindi (1080p)
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (576p)
+http://116.90.120.149:8000/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD",Star Gold HD (1080p)
+http://116.90.120.149:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD",Star Gold Romance (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
+http://116.90.120.149:8000/play/a0c0/index.m3u8
+#EXTINF:-1 tvg-id="E24.in@SD",E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (1080p)
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" http-referrer="https://playyonogames.in/",Colors Cineplex Bollywood (576p)
+#EXTVLCOPT:http-referrer=https://playyonogames.in/https://playyonogames.in/live.php?id=1763&format=.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" http-referrer="https://playyonogames.in/",Colors Cineplex Superhits (576p)
+#EXTVLCOPT:http-referrer=https://playyonogames.in/https://playyonogames.in/live.php?id=1450&format=.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD",Colors Rishtey Asia (1080p)
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
