@@ -7,6 +7,7 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+
 #EXTINF:-1 tvg-id="Andpictures.in@SD" http-referrer="https://onezoo.net",&pictures (1080p)
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd
@@ -152,3 +153,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD",Zoom (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" Shemaroo Boolywood
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/122da2d9-dfda-4593-a1d7-2d04c3f3e852/0.m3u8
+
