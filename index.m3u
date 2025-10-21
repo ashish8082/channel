@@ -191,3 +191,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://14.199.164.20:4001/play/a0q7/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (720p)
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
