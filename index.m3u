@@ -177,8 +177,8 @@ http://116.90.120.149:8000/play/a0c0/index.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (1080p)
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" http-referrer="https://playyonogames.in/",Colors Cineplex Bollywood (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/https://playyonogames.in/live.php?id=1763&format=.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
+http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" http-referrer="https://playyonogames.in/",Colors Cineplex Superhits (576p)
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
 https://playyonogames.in/live.php?id=1450&format=.m3u8
@@ -194,3 +194,11 @@ http://14.199.164.20:4001/play/a0q7/index.m3u8
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/039f6f11-d0c5-4dc3-88ee-339a8f99811e/2.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in@SD",Zee Action (576p)
+http://87.255.35.150:18507/
+#EXTINF:-1 tvg-id="ZeeCafe.in@SD",Zee Cafe (1080p)
+http://116.90.120.149:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="VyasChannel.in@SD",Vyas NIC (576p)
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a02r/index.m3u8
