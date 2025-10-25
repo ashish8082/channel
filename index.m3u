@@ -202,3 +202,31 @@ http://116.90.120.149:8000/play/a0e7/index.m3u8
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",Star Utsav Movies (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (576p)
+http://87.255.35.150:18285/
+#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
+http://87.255.35.150:18555/
+#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
+http://87.255.35.150:18804/
+#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
+http://87.255.35.150:18828/
+#EXTINF:-1 tvg-id="SonySportsTen3.in@SD",Sony Sports Ten 3 (1080p)
+http://87.255.35.150:18848/
+#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
+http://87.255.35.150:18841/
+#EXTINF:-1 tvg-id="MaxMiddleEast.in@SD",Max Middle East (1080p)
+http://87.255.35.150:18851/
+#EXTINF:-1 tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
+http://87.255.35.150:18861/
+#EXTINF:-1 tvg-id="SonySportsTen2.in@SD",Sony Sports Ten 2 (1080p)
+http://87.255.35.150:18927/
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (1080p)
+http://87.255.35.150:18926/
+#EXTINF:-1 tvg-id="SonySportsTen2.in@SD",Sony Sports Ten 2 (1080p)
+http://87.255.35.150:18927/
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD",Sony Sports Ten 1 (1080p)
+http://87.255.35.150:18926/
+#EXTINF:-1 tvg-id="ZeeTV.in@SD" http-referrer="https://onezoo.net",Zee TV (1080p)
+http://87.255.35.150:18849/
+#EXTINF:-1 tvg-id="SonyPix.in",Sony Pix (1080p)
+http://87.255.35.150:18495/
