@@ -9,8 +9,7 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 
 #EXTINF:-1 tvg-id="Andpictures.in@SD" http-referrer="https://onezoo.net",&pictures (1080p)
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd
+http://87.255.35.150:18510/
 #EXTINF:-1 tvg-id="AajTak.in@SD",Aaj Tak (1080p)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@SD",Aastha (480p)
